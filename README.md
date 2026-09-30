@@ -1,5 +1,5 @@
 # PS5 Relapse Exploit
-Supported firmware: 7.00 through 13.60.
+Supported firmware: 7.00 through 13.60. ***THIS IS A CLONE OF NTFARGO'S REPO BEFORE THE ACTUAL PAYLOADS WERE REMOVED***
 
 ## Usage
 - In the network settings, set Primary DNS to `45.56.67.85` (Recommended)
